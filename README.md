@@ -12,3 +12,4 @@ docker run \
 --network host \
 docker-events-watcher:latest
 ```
+
